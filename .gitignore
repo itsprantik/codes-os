@@ -1,0 +1,8 @@
+# Build output
+target/
+build/
+*.o
+
+# OS files
+Thumbs.db
+.DS_Store
